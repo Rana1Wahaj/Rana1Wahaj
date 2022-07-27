@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rana1Wahaj
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Full stack web development(HTML,CSS,Bootstrap, JQUERY Backend PHP, XAMPP)
+- 🌱 I’m currently learning Full stack web development(HTML,CSS,Bootstrap, JQUERY Backend PHP, XAMPP,MERN,Java Script)
 
 - 📫 How to reach me  -----> Email:ranawahaj47@gmail.com
 - Mobile number 03089249682
